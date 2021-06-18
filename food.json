@@ -1,0 +1,32 @@
+{
+  "Food": {
+    "01": {
+      "id": "1",
+      "Name": "Bengali Fish Curry",
+      "Description": "Maacher means \"fish\" and kalia or jhol means \"in curry or gravy.\" The most commonly used fish to prepare this dish is a type of freshwater carp or rui maach. If you do not have access to rui maach, you also can use salmon, pomfret, sea bass, red snapper, tilapia, or catfish.",
+      "": {}
+    },
+    "02": {
+      "id": "2",
+      "Name": "Fish Cutlet",
+      "Description": "Fish cutlet (Indian fish cakes) – Master the art of making crispy fish cakes oozing with traditional Indian flavors. Serve with a side of simple onion salad and watch your guests tuck in. Simply sensational!",
+      "": {}
+    },
+    "03": {
+      "id": "3",
+      "Name": "Grilled Fish",
+      "Image": "From shrimp and scallops to salmon and cod to calamari and lobster, literally anything goes when it comes to grilling seafood."
+    },
+    "04": {
+      "id": "4",
+      "Name": "Lemon Garlic Tilapia",
+      "Image": "Baked tilapia is a weeknight dinner dream. The fish, which has a very mild fish taste, is a great way to get those non-fish eaters to love it."
+    },
+    "": {},
+    "05": {
+      "id": "5",
+      "Name": "Pomfret Fish Curry",
+      "Image": "There are days where you feel like sitting by the beach, under a shack and tucking into some delicious seafood. You may not be able to sit at your favourite shack right now. But you can definitely treat yourself to some delicious seafood!"
+    }
+  }
+}
